@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "../src/assets/img/products/f1.jpg",
+    "image": "https://i.ibb.co/j55WN47/n3.jpg",
     "brand": "Nike",
     "price": 29.99,
     "title": "Men's Classic T-Shirt",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "image": "../src/assets/img/products/f2.jpg",
+    "image": "https://i.ibb.co/bb4w5hD/f1.jpg",
     "brand": "Adidas",
     "price": 24.99,
     "title": "Men's Logo Tee",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "image": "../src/assets/img/products/f3.jpg",
+    "image": "https://i.ibb.co/YRKRSvV/f3.jpg",
     "brand": "Puma",
     "price": 19.99,
     "title": "Men's Graphic T-Shirt",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "image": "../src/assets/img/products/f4.jpg",
+    "image": "https://i.ibb.co/nD1FtFm/f4.jpg",
     "brand": "Under Armour",
     "price": 34.99,
     "title": "Men's Tech Tee",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "image": "../src/assets/img/products/f5.jpg",
+    "image": "https://i.ibb.co/sHLq5JM/f5.jpg",
     "brand": "Nike",
     "price": 29.99,
     "title": "Women's Classic T-Shirt",
@@ -42,7 +42,7 @@
   
     {
       "id": 6,
-      "image": "../src/assets/img/products/f6.jpg",
+      "image": "https://i.ibb.co/BKQ27wj/f6.jpg",
       "brand": "Adidas",
       "price": 24.99,
       "title": "Women's Logo Tee",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "image": "../src/assets/img/products/f7.jpg",
+      "image": "https://i.ibb.co/vJyM54M/n1.jpg",
       "brand": "Puma",
       "price": 19.99,
       "title": "Women's Graphic T-Shirt",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "image": "../src/assets/img/products/f8.jpg",
+      "image": "https://i.ibb.co/xDYQTzc/n2.jpg",
       "brand": "Under Armour",
       "price": 34.99,
       "title": "Women's Tech Tee",
@@ -66,7 +66,7 @@
     },
     {
       "id": 9,
-      "image": "../src/assets/img/products/n1.jpg",
+      "image": "https://i.ibb.co/j55WN47/n3.jpg",
       "brand": "Levi's",
       "price": 39.99,
       "title": "Men's Graphic Tee",
@@ -74,7 +74,7 @@
     },
     {
       "id": 10,
-      "image": "../src/assets/img/products/n2.jpg",
+      "image": "https://i.ibb.co/xmRjBcW/f7.jpg",
       "brand": "Levi's",
       "price": 39.99,
       "title": "Women's Graphic Tee",
@@ -83,7 +83,7 @@
     
       {
         "id": 11,
-        "image": "../src/assets/img/products/n3.jpg",
+        "image": "https://i.ibb.co/k2SDtFm/f8.jpg",
         "brand": "Nike",
         "price": 29.99,
         "title": "Men's Logo Tee",
@@ -91,7 +91,7 @@
       },
       {
         "id": 12,
-        "image": "../src/assets/img/products/n4.jpg",
+        "image": "https://i.ibb.co/yFnkyMZ/n4.jpg",
         "brand": "Calvin Klein",
         "price": 49.99,
         "title": "Women's Modern Tee",
@@ -99,7 +99,7 @@
       },
       {
         "id": 13,
-        "image": "../src/assets/img/products/n5.jpg",
+        "image": "https://i.ibb.co/jwYrLcm/n5.jpg",
         "brand": "Ralph Lauren",
         "price": 59.99,
         "title": "Men's Custom Fit Tee",
@@ -107,7 +107,7 @@
       },
       {
         "id": 14,
-        "image": "../src/assets/img/products/n6.jpg",
+        "image": "https://i.ibb.co/zbJ1M4P/n7.jpg",
         "brand": "Tommy Hilfiger",
         "price": 44.99,
         "title": "Women's Logo Tee",
@@ -115,7 +115,7 @@
       },
       {
         "id": 15,
-        "image": "../src/assets/img/products/n7.jpg",
+        "image": "https://i.ibb.co/rHmbX13/n8.jpg",
         "brand": "H&M",
         "price": 14.99,
         "title": "Men's Basic Tee",
@@ -123,7 +123,7 @@
       },
       {
         "id": 16,
-        "image": "../src/assets/img/products/n8.jpg",
+        "image": "https://i.ibb.co/1MZZgJc/n6.jpg",
         "brand": "Adidas",
         "price": 34.99,
         "title": "Women's Crop Top",
