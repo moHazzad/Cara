@@ -1,0 +1,8 @@
+.anima{
+    /* overflow: hidden; */
+    transition: 0.5s all ease-in-out;
+}
+
+.onhover{
+    transform: scale(1.2);
+}

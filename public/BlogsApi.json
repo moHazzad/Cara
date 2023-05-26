@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+      "image": "../src/assets/img/blog/b1.jpg",
+      "text": "Free Shopping",
+      "date": "13/01",
+      "title": "The Cotton Zip Up"
+
+    },
+    {
+        "id":2,
+      "image": "../src/assets/img/blog/b2.jpg",
+      "text": "Online Order",
+      "date": "13/04",
+      "title": "How To Style a Quiff"
+    },
+    {
+        "id":3,
+      "image": "../src/assets/img/blog/b3.jpg",
+      "text": "Money Save",
+      "date": "12/01",
+      "title": "Must Have Girl Items"
+    },
+    {
+        "id":4,
+      "image": "../src/assets/img/blog/b4.jpg",
+      "text": "Promotions",
+      "date": "16/11",
+      "title": "Must Have Girl Items"
+    },
+    {
+        "id":5,
+      "image": "../src/assets/img/blog/b3.jpg",
+      "text": "Happy Sell",
+      "date": "12/01",
+      "title":"Runway Inspired Trends"
+    },
+    {
+        "id":6,
+      "image": "../src/assets/img/blog/b6.jpg",
+      "text": "24/7 Support",
+      "title":"AW20 Menswear Trends"
+
+    }
+  ]

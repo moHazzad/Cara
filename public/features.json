@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+      "image": "../src/assets/img/features/f1.png",
+      "text": "Free Shopping"
+    },
+    {
+        "id":2,
+      "image": "../src/assets/img/features/f2.png",
+      "text": "Online Order"
+    },
+    {
+        "id":3,
+      "image": "../src/assets/img/features/f3.png",
+      "text": "Money Save"
+    },
+    {
+        "id":4,
+      "image": "../src/assets/img/features/f4.png",
+      "text": "Promotions"
+    },
+    {
+        "id":5,
+      "image": "../src/assets/img/features/f5.png",
+      "text": "Happy Sell"
+    },
+    {
+        "id":6,
+      "image": "../src/assets/img/features/f6.png",
+      "text": "24/7 Support"
+    }
+  ]

@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "image": "../src/assets/img/products/f1.jpg",
+    "brand": "Nike",
+    "price": 29.99,
+    "title": "Men's Classic T-Shirt",
+    "productDetails": "The Nike Men's Classic T-Shirt is a timeless piece that will never go out of style. Made from 100% cotton, this t-shirt is soft, comfortable, and breathable, making it perfect for everyday wear. The classic fit is designed to provide a relaxed and comfortable feel, while the ribbed neckline adds durability and a classic look. Available in a range of colors and sizes, this t-shirt is perfect for anyone looking for a versatile and reliable wardrobe staple."
+  },
+  {
+    "id": 2,
+    "image": "../src/assets/img/products/f2.jpg",
+    "brand": "Adidas",
+    "price": 24.99,
+    "title": "Men's Logo Tee",
+    "productDetails": "The Adidas Men's Logo Tee is a stylish and comfortable t-shirt that is perfect for any casual occasion. Made from 60% cotton and 40% polyester, this t-shirt is soft, lightweight, and breathable. The slim fit design provides a modern and athletic look, while the large Adidas logo on the chest adds a bold and sporty touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to look and feel their best while staying comfortable."
+  },
+  {
+    "id": 3,
+    "image": "../src/assets/img/products/f3.jpg",
+    "brand": "Puma",
+    "price": 19.99,
+    "title": "Men's Graphic T-Shirt",
+    "productDetails": "The Puma Men's Graphic T-Shirt is a stylish and comfortable t-shirt that is perfect for any casual occasion. Made from 100% cotton, this t-shirt is soft, lightweight, and breathable. The regular fit provides a comfortable and relaxed feel, while the unique graphic on the chest adds a bold and trendy touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to make a statement with their casual wear."
+  },
+  {
+    "id": 4,
+    "image": "../src/assets/img/products/f4.jpg",
+    "brand": "Under Armour",
+    "price": 34.99,
+    "title": "Men's Tech Tee",
+    "productDetails": "The Under Armour Men's Tech Tee is a high-performance t-shirt that is perfect for any activity. Made from 90% polyester and 10% elastane, this t-shirt is lightweight, stretchy, and breathable. The loose fit provides a comfortable and relaxed feel, while the UA Tech fabric wicks sweat away from the body to keep you cool and dry. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to stay comfortable and perform their best."
+  },
+  {
+    "id": 5,
+    "image": "../src/assets/img/products/f5.jpg",
+    "brand": "Nike",
+    "price": 29.99,
+    "title": "Women's Classic T-Shirt",
+    "productDetails": "The Nike Women's Classic T-Shirt is a timeless piece that will never go out of style. Made from 100% cotton, this t-shirt is soft, comfortable, and breathable, making it perfect for everyday wear. The classic fit is designed to provide a relaxed and comfortable feel, while the ribbed neckline adds durability and a classic"
+  },
+  
+    {
+      "id": 6,
+      "image": "../src/assets/img/products/f6.jpg",
+      "brand": "Adidas",
+      "price": 24.99,
+      "title": "Women's Logo Tee",
+      "productDetails": "The Adidas Women's Logo Tee is a stylish and comfortable t-shirt that is perfect for any casual occasion. Made from 60% cotton and 40% polyester, this t-shirt is soft, lightweight, and breathable. The slim fit design provides a modern and athletic look, while the large Adidas logo on the chest adds a bold and sporty touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to look and feel their best while staying comfortable."
+    },
+    {
+      "id": 7,
+      "image": "../src/assets/img/products/f7.jpg",
+      "brand": "Puma",
+      "price": 19.99,
+      "title": "Women's Graphic T-Shirt",
+      "productDetails": "The Puma Women's Graphic T-Shirt is a stylish and comfortable t-shirt that is perfect for any casual occasion. Made from 100% cotton, this t-shirt is soft, lightweight, and breathable. The regular fit provides a comfortable and relaxed feel, while the unique graphic on the chest adds a bold and trendy touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to make a statement with their casual wear."
+    },
+    {
+      "id": 8,
+      "image": "../src/assets/img/products/f8.jpg",
+      "brand": "Under Armour",
+      "price": 34.99,
+      "title": "Women's Tech Tee",
+      "productDetails": "The Under Armour Women's Tech Tee is a high-performance t-shirt that is perfect for any activity. Made from 90% polyester and 10% elastane, this t-shirt is lightweight, stretchy, and breathable. The loose fit provides a comfortable and relaxed feel, while the UA Tech fabric wicks sweat away from the body to keep you cool and dry. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to stay comfortable and perform their best."
+    },
+    {
+      "id": 9,
+      "image": "../src/assets/img/products/n1.jpg",
+      "brand": "Levi's",
+      "price": 39.99,
+      "title": "Men's Graphic Tee",
+      "productDetails": "The Levi's Men's Graphic Tee is a stylish and comfortable t-shirt that is perfect for any casual occasion. Made from 100% cotton, this t-shirt is soft, lightweight, and breathable. The regular fit provides a comfortable and relaxed feel, while the unique graphic on the chest adds a bold and trendy touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to make a statement with their casual wear."
+    },
+    {
+      "id": 10,
+      "image": "../src/assets/img/products/n2.jpg",
+      "brand": "Levi's",
+      "price": 39.99,
+      "title": "Women's Graphic Tee",
+      "productDetails": "The Levi's Women's Graphic Tee is a stylish and comfortable t-shirt that is perfect for any casual occasion. Made from 100% cotton, this t-shirt is soft, lightweight, and breathable. The regular fit provides a comfortable and relaxed feel, while the unique graphic on the chest adds a bold and trendy touch. Available in a range"
+    },
+    
+      {
+        "id": 11,
+        "image": "../src/assets/img/products/n3.jpg",
+        "brand": "Nike",
+        "price": 29.99,
+        "title": "Men's Logo Tee",
+        "productDetails": "The Nike Men's Logo Tee is a classic and comfortable t-shirt that is perfect for any casual occasion. Made from 100% cotton, this t-shirt is soft, lightweight, and breathable. The regular fit provides a comfortable and relaxed feel, while the iconic Nike logo on the chest adds a bold and sporty touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to show off their love for the Nike brand."
+      },
+      {
+        "id": 12,
+        "image": "../src/assets/img/products/n4.jpg",
+        "brand": "Calvin Klein",
+        "price": 49.99,
+        "title": "Women's Modern Tee",
+        "productDetails": "The Calvin Klein Women's Modern Tee is a stylish and comfortable t-shirt that is perfect for any casual occasion. Made from 100% cotton, this t-shirt is soft, lightweight, and breathable. The slim fit design provides a modern and feminine look, while the iconic Calvin Klein logo on the hem adds a subtle and sophisticated touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to elevate their casual wardrobe."
+      },
+      {
+        "id": 13,
+        "image": "../src/assets/img/products/n5.jpg",
+        "brand": "Ralph Lauren",
+        "price": 59.99,
+        "title": "Men's Custom Fit Tee",
+        "productDetails": "The Ralph Lauren Men's Custom Fit Tee is a high-quality and stylish t-shirt that is perfect for any occasion. Made from 100% cotton, this t-shirt is soft, comfortable, and durable. The custom fit design provides a modern and tailored look, while the iconic Ralph Lauren logo on the chest adds a touch of luxury. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to dress up their casual wardrobe."
+      },
+      {
+        "id": 14,
+        "image": "../src/assets/img/products/n6.jpg",
+        "brand": "Tommy Hilfiger",
+        "price": 44.99,
+        "title": "Women's Logo Tee",
+        "productDetails": "The Tommy Hilfiger Women's Logo Tee is a classic and comfortable t-shirt that is perfect for any casual occasion. Made from 100% cotton, this t-shirt is soft, lightweight, and breathable. The regular fit provides a comfortable and relaxed feel, while the iconic Tommy Hilfiger logo on the chest adds a bold and preppy touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to show off their love for the Tommy Hilfiger brand."
+      },
+      {
+        "id": 15,
+        "image": "../src/assets/img/products/n7.jpg",
+        "brand": "H&M",
+        "price": 14.99,
+        "title": "Men's Basic Tee",
+        "productDetails": "The H&M Men's Basic Tee is a simple and affordable t-shirt that is perfect for everyday wear. Made from 100% cotton, this t-shirt is soft, lightweight, and breathable. The regular fit provides a comfortable and relaxed feel, while the minimal design makes it easy to style with any outfit. Available in a range of colors and sizes"
+      },
+      {
+        "id": 16,
+        "image": "../src/assets/img/products/n8.jpg",
+        "brand": "Adidas",
+        "price": 34.99,
+        "title": "Women's Crop Top",
+        "productDetails": "The Adidas Women's Crop Top is a trendy and comfortable t-shirt that is perfect for any casual occasion. Made from a soft and stretchy blend of cotton and elastane, this t-shirt is comfortable and form-fitting. The cropped design provides a modern and stylish look, while the iconic Adidas logo on the front adds a sporty touch. Available in a range of colors and sizes, this t-shirt is perfect for anyone who wants to stay on-trend while still being comfortable." 
+      }
+]
+
