@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-      "image": "../src/assets/img/blog/b1.jpg",
+      "image": "https://i.ibb.co/Pthnd5S/b1.jpg",
       "text": "Free Shopping",
       "date": "13/01",
       "title": "The Cotton Zip Up"
@@ -9,35 +9,35 @@
     },
     {
         "id":2,
-      "image": "../src/assets/img/blog/b2.jpg",
+      "image": "https://i.ibb.co/Zf8Sfbw/b2.jpg",
       "text": "Online Order",
       "date": "13/04",
       "title": "How To Style a Quiff"
     },
     {
         "id":3,
-      "image": "../src/assets/img/blog/b3.jpg",
+      "image": "https://i.ibb.co/0DH6pYL/b3.jpg",
       "text": "Money Save",
       "date": "12/01",
       "title": "Must Have Girl Items"
     },
     {
         "id":4,
-      "image": "../src/assets/img/blog/b4.jpg",
+      "image": "https://i.ibb.co/QQm61Gx/b4.jpg",
       "text": "Promotions",
       "date": "16/11",
       "title": "Must Have Girl Items"
     },
     {
         "id":5,
-      "image": "../src/assets/img/blog/b3.jpg",
+      "image": "https://i.ibb.co/0DH6pYL/b3.jpg",
       "text": "Happy Sell",
       "date": "12/01",
       "title":"Runway Inspired Trends"
     },
     {
         "id":6,
-      "image": "../src/assets/img/blog/b6.jpg",
+      "image": "https://i.ibb.co/85RndGx/b6.jpg",
       "text": "24/7 Support",
       "title":"AW20 Menswear Trends"
 
