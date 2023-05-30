@@ -36,6 +36,7 @@ function Home() {
     <>
       <HeroSection />
       <section>
+        
         <div className="w-[90%] mx-auto my-20 grid md:grid-cols-3 sm:grid-cols-2 lg:grid-cols-6 xl:grid-cols-6 gap-4   py-3">
           {featuresDataLoad.map((sf) => (
             <Featurse key={sf.id} featuresDataLoad={sf} />

@@ -6,6 +6,7 @@ import { addProducts } from "../utility/LocalStorage";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { CartContext } from "../../App";
+import Swal from 'sweetalert2'
 
 export default function ProductsDetails() {
   const { setCardItems } = useContext(CartContext);
@@ -19,7 +20,14 @@ export default function ProductsDetails() {
 
   const handleProduct = (id) => {
     () => toast("Product Added");
-    alert("added product");
+    // alert("added product");
+    Swal.fire({
+      position: 'top-end',
+      icon: 'success',
+      title: 'Your Item added to cart',
+      showConfirmButton: false,
+      timer: 1500
+    })
     addProducts(id);
     setCardItems((prev) => prev + 1);
   };
